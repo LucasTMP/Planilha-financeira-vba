@@ -6,7 +6,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- Titulo -->
-  <h3 align="center">Planilha-financeira-vba</h3>
+  <h1 align="center">Planilha-financeira-vba</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
