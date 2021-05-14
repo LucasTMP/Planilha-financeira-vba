@@ -62,9 +62,13 @@ Possuir a ferramenta Excel instalada, lembrando que a planilha está otimizada s
 A utilização da planilha está diretamente ligada as ações dos botões disponíveis na parte superior da planilha.
 
 Cadastrar: Abre o formulário de cadastro de novos clientes
+
 Excluir: Depois de selecionar uma linha (cliente) para remover, basta clicar sobre o botão e aceitar a remoção
+
 Descontos: Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
+
 Atualizar valores: Permite a alteração do valor dos produtos e serviços fornecidos
+
 Atualizar Dashboard: Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
 
 
