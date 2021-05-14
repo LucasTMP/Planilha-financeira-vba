@@ -13,24 +13,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Sobre-o-projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Desenvolvido-com">Desenvolvido com</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Como-começar">Como começar</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Pré-requisitos ">Pré-requisitos </a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Como-usar">Como usar</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -50,38 +47,25 @@ Esse projeto foi desenvolvido utilizando a ferramenta Excel do pacote Office, em
 * [Office](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
 <!-- GETTING STARTED -->
-## Como utilizar
+## Como começar
 
 Basta realizar o download da planilha e abrir ela normalmente, aceitando os acessos e utilização de macros.
 
-### Requerimentos
+### Pré-requisitos
 
 Possuir a ferramenta Excel instalada, lembrando que a planilha está otimizada somente para o sistema operacional Windows (até o momento)
 
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Como usar
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+A utilização da planilha está diretamente ligada as ações dos botões disponíveis na parte superior da planilha.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Cadastrar: Abre o formulário de cadastro de novos clientes
+Excluir: Depois de selecionar uma linha (cliente) para remover, basta clicar sobre o botão e aceitar a remoção
+Descontos: Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
+Atualizar valores: Permite a alteração do valor dos produtos e serviços fornecidos
+Atualizar Dashboard: Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
 
 
 
@@ -89,27 +73,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
