@@ -34,8 +34,8 @@
 ## Sobre o projeto
 
 
-  ![Product Name Screen Shot][product-screenshot]
-
+  
+<img align="left" width="33%" src="https://i.ibb.co/gFDn4jj/1.jpg"> 
 
 A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA, focando em solucionar uma problemática de organização dentro de uma pequena empresa, seguindo o caso de uso dela e as suas necessidades. Os processos da planilha foram automatizados pela criação de formulários e formulas para facilitar a criação e controle dos clientes da empresa. Foi criado também um dashboard para comtemplar a função de um painel de análise financeira para a empresa.
 
@@ -106,13 +106,8 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucastmp/
 <!-- MARKDOWN IMAGES -->
-[product-screenshot]: https://i.ibb.co/gFDn4jj/1.jpg?style=centerme
+[product-screenshot]: https://i.ibb.co/gFDn4jj/1.jpg
 [product-screenshot-desconto]: https://i.ibb.co/Cw59LSg/2.jpg
 [product-screenshot-atualizar]: https://i.ibb.co/dJvdgGF/3.jpg
 [product-screenshot-pesquisa]: https://i.ibb.co/q7nXxNg/4.jpg
 [product-screenshot-condicional]: https://i.ibb.co/TKhQ1Qr/5.jpg
-
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
