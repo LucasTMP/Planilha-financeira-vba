@@ -42,7 +42,8 @@ A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA,
 
 Esse projeto foi desenvolvido utilizando a ferramenta Excel do pacote Office, em conjunto com a programação em VBA (Visual Basic for Applications).
 
-* [Office](https://www.microsoft.com/pt-br/microsoft-365/excel)
+* [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
+* [Pacote Office](https://www.microsoft.com/pt-br/microsoft-365/business/compare-all-microsoft-365-business-products-b?&ef_id=EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE:G:s&OCID=AID2100139_SEM_EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE:G:s&lnkd=Google_O365SMB_Brand&gclid=EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE)
 
 <!-- GETTING STARTED -->
 ## Como começar
@@ -59,21 +60,21 @@ Possuir a ferramenta Excel instalada, lembrando que a planilha está otimizada s
 
 A utilização da planilha está diretamente ligada as ações dos botões disponíveis na parte superior da planilha.
 
-Cadastrar: Abre o formulário de cadastro de novos clientes
+<b>Cadastrar:</b> Abre o formulário de cadastro de novos clientes
 
-Excluir: Depois de selecionar uma linha (cliente) para remover, basta clicar sobre o botão e aceitar a remoção
+<b>Excluir:</b> Depois de selecionar uma linha (cliente) para remover, basta clicar sobre o botão e aceitar a remoção
 
-Descontos: Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
+<b>Descontos:</b> Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
 
-Atualizar valores: Permite a alteração do valor dos produtos e serviços fornecidos
+<b>Atualizar valores:</b> Permite a alteração do valor dos produtos e serviços fornecidos
 
-Atualizar Dashboard: Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
+<b>Atualizar Dashboard:</b> Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
 
 
 <!-- CONTACT -->
 ## Contato
 
-[Linkedin](https://www.linkedin.com/in/lucastmp/)
+[Linkedin](https://www.linkedin.com/in/lucastmp/) - Lucas Teixeira
 
 <b>E-mail:</b> lucas.tmp@outlook.com
 
