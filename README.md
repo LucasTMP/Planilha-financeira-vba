@@ -46,7 +46,7 @@ Esse projeto foi desenvolvido utilizando a ferramenta Excel do pacote Office, em
 * [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 * [Pacote Office](https://www.microsoft.com/pt-br/microsoft-365/business/compare-all-microsoft-365-business-products-b?&ef_id=EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE:G:s&OCID=AID2100139_SEM_EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE:G:s&lnkd=Google_O365SMB_Brand&gclid=EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE)
 
-<!-- GETTING STARTED -->
+
 ## Como começar
 
 Basta realizar o download da planilha e abrir ela normalmente, aceitando os acessos e utilização de macros.
@@ -55,8 +55,6 @@ Basta realizar o download da planilha e abrir ela normalmente, aceitando os aces
 
 Possuir a ferramenta Excel instalada, lembrando que a planilha está otimizada somente para o sistema operacional Windows (até o momento)
 
-
-<!-- USAGE EXAMPLES -->
 ## Como usar
 
 A utilização da planilha está diretamente ligada as ações dos botões disponíveis na parte superior da planilha.
@@ -65,7 +63,7 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 
 <b>Excluir:</b> Depois de selecionar uma linha (cliente) para remover, basta clicar sobre o botão e aceitar a remoção
 
-![botao desconto][product-screenshot-desconto]
+<img align="left" width=[product-screenshot-desconto]> 
 
 <b>Descontos:</b> Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
 
