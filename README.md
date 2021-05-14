@@ -1,4 +1,3 @@
-<base target="_blank">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -194,7 +193,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-shield]: https://img.shields.io/github/license/LucasTMP/Planilha-financeira-vba.svg?style=for-the-badge
 [license-url]: https://github.com/LucasTMP/Planilha-financeira-vba/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/lucastmp/
-[link](https://www.linkedin.com/in/lucastmp/){:target="_blank"}
+[linkedin-url]: https://www.linkedin.com/in/lucastmp/?target=_blank
 <!-- MARKDOWN IMAGES -->
 [product-screenshot]: images/screenshot.png
