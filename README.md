@@ -10,7 +10,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Índice de Conteúdos</summary>
   <ol>
     <li>
       <a href="#Sobre-o-projeto">Sobre o Projeto</a>
@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA, focando em solucionar uma problemática de organização dentro de uma pequena empresa, seguindo o caso de uso dela e as suas necessidades. Os processos da planilha foram automatizados pela criação de formulários e formulas para facilitar a criação e controle dos clientes da empresa. Foi criado também um dashboard para comtemplar a função de um painel de análise financeira para a empresa.
 
