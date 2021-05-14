@@ -63,7 +63,7 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 
 <b>Excluir:</b> Depois de selecionar uma linha (cliente) para remover, basta clicar sobre o botão e aceitar a remoção
 
-<img align="left" width="33%" src=[product-screenshot-desconto]> 
+<img align="left" width="33%" src="[product-screenshot-desconto]"> 
 
 <b>Descontos:</b> Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
 
