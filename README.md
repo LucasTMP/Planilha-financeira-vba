@@ -195,4 +195,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucastmp/
 <!-- MARKDOWN IMAGES -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://ibb.co/84jhYKK
+[product-screenshot-desconto]: https://ibb.co/4FZSk0z
+[product-screenshot-atualizar]: https://ibb.co/6JS3Bgz
+[product-screenshot-pesquisa]: https://ibb.co/djc17Pp
+[product-screenshot-condicional]: https://ibb.co/Fs7QXQn
