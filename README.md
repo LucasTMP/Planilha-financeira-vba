@@ -75,8 +75,12 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 <b>Atualizar Dashboard:</b> Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
 
 ![pesquisar e mover][product-screenshot-pesquisa]
+<b>Pesquisar:</b> Utilize a caixa de pesquisa para encontrar um cliente
 
+<b>Setas:</b> Utilize as setas para alterar entre as planilhas
 
+![condicao][product-screenshot-condicional]
+<b>Condicionais:</b> A planilha contém várias condicionais para possibilitar um controle e visualização melhor de determinados pontos importantes necessários no uso da empresa.
 
 <!-- CONTACT -->
 ## Contato
@@ -101,7 +105,7 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/lucastmp/
 <!-- MARKDOWN IMAGES -->
-[product-screenshot]: https://i.ibb.co/dJvdgGF/1.jpg
+[product-screenshot]: https://i.ibb.co/gFDn4jj/1.jpg
 [product-screenshot-desconto]: https://i.ibb.co/Cw59LSg/2.jpg
 [product-screenshot-atualizar]: https://i.ibb.co/dJvdgGF/3.jpg
 [product-screenshot-pesquisa]: https://i.ibb.co/q7nXxNg/4.jpg
