@@ -39,6 +39,7 @@
 
 A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA, focando em solucionar uma problemática de organização dentro de uma pequena empresa, seguindo o caso de uso dela e as suas necessidades. Os processos da planilha foram automatizados pela criação de formulários e formulas para facilitar a criação e controle dos clientes da empresa. Foi criado também um dashboard para comtemplar a função de um painel de análise financeira para a empresa.
 
+
 ### Desenvolvido com
 
 Esse projeto foi desenvolvido utilizando a ferramenta Excel do pacote Office, em conjunto com a programação em VBA (Visual Basic for Applications).
