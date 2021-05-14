@@ -75,7 +75,7 @@ Atualizar Dashboard: Realiza a atualização dos valores da Aba (planilha) Dashb
 
 [Linkedin](https://www.linkedin.com/in/lucastmp/)
 
-[e-mail] lucas.tmp@outlook.com
+[Email](mailto:lucas.tmp@outlook.com)
 
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
