@@ -66,7 +66,7 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 
 <b>Descontos:</b> Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
 
-[product-screenshot-atualizar]
+![botao atualizar][product-screenshot-atualizar]
 <b>Atualizar valores:</b> Permite a alteração do valor dos produtos e serviços fornecidos
 
 <b>Atualizar Dashboard:</b> Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
