@@ -63,22 +63,22 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 
 <b>Excluir:</b> Depois de selecionar uma linha (cliente) para remover, basta clicar sobre o botão e aceitar a remoção
 
-<img align="left" width="33%" src=[product-screenshot-desconto]> 
+<img align="left" width="33%" src="https://i.ibb.co/Cw59LSg/2.jpg"> 
 
 <b>Descontos:</b> Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
 
-![botao atualizar][product-screenshot-atualizar]
+<img align="left" width="33%" src="https://i.ibb.co/dJvdgGF/3.jpg"> 
 
 <b>Atualizar valores:</b> Permite a alteração do valor dos produtos e serviços fornecidos
 
 <b>Atualizar Dashboard:</b> Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
 
-![pesquisar e mover][product-screenshot-pesquisa]
+<img align="left" width="33%" src="https://i.ibb.co/q7nXxNg/4.jpg"> 
 <b>Pesquisar:</b> Utilize a caixa de pesquisa para encontrar um cliente
 
 <b>Setas:</b> Utilize as setas para alterar entre as planilhas
 
-![condicao][product-screenshot-condicional]
+<img align="left" width="33%" src="https://i.ibb.co/TKhQ1Qr/5.jpg"> 
 <b>Condicionais:</b> A planilha contém várias condicionais para possibilitar um controle e visualização melhor de determinados pontos importantes necessários no uso da empresa.
 
 <!-- CONTACT -->
@@ -105,7 +105,7 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 [linkedin-url]: https://www.linkedin.com/in/lucastmp/
 <!-- MARKDOWN IMAGES -->
 [product-screenshot]: https://i.ibb.co/gFDn4jj/1.jpg
-[product-screenshot-desconto]: "https://i.ibb.co/Cw59LSg/2.jpg"
+[product-screenshot-desconto]: https://i.ibb.co/Cw59LSg/2.jpg
 [product-screenshot-atualizar]: https://i.ibb.co/dJvdgGF/3.jpg
 [product-screenshot-pesquisa]: https://i.ibb.co/q7nXxNg/4.jpg
 [product-screenshot-condicional]: https://i.ibb.co/TKhQ1Qr/5.jpg
