@@ -8,7 +8,7 @@
   <h1 align="center">Planilha-financeira-vba</h1>
 
 <details open="open">
-  <summary>**Índice de Conteúdos**</summary>
+  <summary><b>Índice de Conteúdos<b/></summary>
   <ol>
     <li>
       <a href="#Sobre-o-projeto">Sobre o Projeto</a>
