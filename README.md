@@ -66,21 +66,21 @@ A utilização da planilha está diretamente ligada as ações dos botões dispo
 <img align="left" width="33%" src="https://i.ibb.co/Cw59LSg/2.jpg"> 
 
 <b>Descontos:</b> Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
-
+<br/>
 <img align="left" width="33%" src="https://i.ibb.co/dJvdgGF/3.jpg"> 
 
 <b>Atualizar valores:</b> Permite a alteração do valor dos produtos e serviços fornecidos
-
+<br/>
 <b>Atualizar Dashboard:</b> Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
-
+<br/>
 <img align="left" width="33%" src="https://i.ibb.co/q7nXxNg/4.jpg"> 
 <b>Pesquisar:</b> Utilize a caixa de pesquisa para encontrar um cliente
-
+<br/>
 <b>Setas:</b> Utilize as setas para alterar entre as planilhas
-
+<br/>
 <img align="left" width="33%" src="https://i.ibb.co/TKhQ1Qr/5.jpg"> 
 <b>Condicionais:</b> A planilha contém várias condicionais para possibilitar um controle e visualização melhor de determinados pontos importantes necessários no uso da empresa.
-
+<br/>
 <!-- CONTACT -->
 ## Contato
 
