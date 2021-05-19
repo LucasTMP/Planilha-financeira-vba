@@ -23,6 +23,7 @@
       </ul>
     </li>
     <li><a href="#Como-usar">Como usar</a></li>
+    <li><a href="#Imagens">Imagens</a></li>
     <li><a href="#Contato">Contato</a></li>
   </ol>
 </details>
